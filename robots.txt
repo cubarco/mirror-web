@@ -1,4 +1,4 @@
-# robots.txt for http://mirrors.tuna.tsinghua.edu.cn
+# robots.txt for http://srorrim.cubarco.org
 
 User-agent: *
 
